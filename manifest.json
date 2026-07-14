@@ -32,7 +32,7 @@
 	  "customFiles": [
         {
           "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/EasyRelocate.json",
-          "destination": "BepInExPack_Valheim/config/com.paxton0505.localization/Russian/EasyRelocate.json"
+          "destination": "BepInEx/config/com.paxton0505.localization/Russian/EasyRelocate.json"
         }
       ]
     },
@@ -43,7 +43,7 @@
 	  "customFiles": [
         {
           "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/ExtraSlots.Russian.json",
-          "destination": "BepInExPack_Valheim/plugins/shudnal-ExtraSlots/Extra Slots.Russian.json"
+          "destination": "BepInEx/plugins/shudnal-ExtraSlots/Extra Slots.Russian.json"
         }
       ]
     },
