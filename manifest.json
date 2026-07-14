@@ -43,7 +43,7 @@
 	  "customFiles": [
         {
           "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/ExtraSlots.Russian.json",
-          "destination": "BepInEx/plugins/Extra Slots.Russian.json"
+          "destination": "BepInEx/plugins/shudnal-ExtraSlots/Extra Slots.Russian.json"
         }
       ]
     },
