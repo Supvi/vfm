@@ -1,0 +1,46 @@
+{
+  "profileVersion": "1.0.0",
+  "bepInEx": {
+    "packageId": "denikson-BepInExPack_Valheim",
+    "version": "5.4.2333"
+  },
+  "mods": [
+    {
+      "name": "Jotunn",
+      "packageId": "ValheimModding-Jotunn",
+      "version": "2.29.2"
+    },
+    {
+      "name": "JsonDotNET",
+      "packageId": "ValheimModding-JsonDotNET",
+      "version": "13.0.4"
+    },
+	{
+      "name": "YamlDotNet",
+      "packageId": "ValheimModding-YamlDotNet",
+      "version": "16.3.1"
+    },
+	{
+      "name": "ConditionalConfigSync",
+      "packageId": "shudnal-ConditionalConfigSync",
+      "version": "1.0.1"
+    },
+	{
+      "name": "Localization",
+      "packageId": "Paxton0505-Localization",
+      "version": "2.0.1",
+	  "customConfigUrl": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/EasyRelocate.json"
+    },
+    {
+      "name": "ExtraSlots",
+      "packageId": "shudnal-ExtraSlots",
+      "version": "1.1.19",
+      "customConfigUrl": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/ExtraSlots.Russian.json"
+    },
+    {
+      "name": "EasyRelocate",
+      "packageId": "ModdedWolf-EasyRelocate",
+      "version": "1.0.4"
+    }
+  ]
+}
