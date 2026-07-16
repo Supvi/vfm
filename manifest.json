@@ -36,6 +36,17 @@
         }
       ]
     },
+	{
+      "name": "AdvancedPortals",
+      "packageId": "RandyKnapp-AdvancedPortals",
+      "version": "1.1.3",
+	  "customFiles": [
+        {
+          "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/AdvancedPortals.json",
+          "destination": "BepInEx/config/com.paxton0505.localization/Russian/AdvancedPortals.json"
+        }
+      ]
+    },
     {
       "name": "ExtraSlots",
       "packageId": "shudnal-ExtraSlots",
@@ -43,7 +54,29 @@
 	  "customFiles": [
         {
           "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/ExtraSlots.Russian.json",
-          "destination": "BepInEx/plugins/shudnal-ExtraSlots/Extra Slots.Russian.json"
+          "destination": "BepInEx/config/ExtraSlots.Russian.json"
+        }
+      ]
+    },
+	{
+      "name": "ExtraSlotsCustomSlots",
+      "packageId": "shudnal-ExtraSlotsCustomSlots",
+      "version": "1.0.20",
+	  "customFiles": [
+        {
+          "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/ExtraSlotsCustomSlots.json",
+          "destination": "BepInEx/config/com.paxton0505.localization/Russian/ExtraSlotsCustomSlots.json"
+        }
+      ]
+    },
+	{
+      "name": "XPortal",
+      "packageId": "SpikeHimself-XPortal",
+      "version": "1.2.24",
+	  "customFiles": [
+        {
+          "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/xportal-translations-russian.json",
+          "destination": "BepInEx/plugins/SpikeHimself-XPortal/XPortal/Translations/Russian/xportal-translations-russian.json"
         }
       ]
     },
@@ -51,6 +84,21 @@
       "name": "EasyRelocate",
       "packageId": "ModdedWolf-EasyRelocate",
       "version": "1.0.5"
+    },
+	{
+      "name": "HipLantern",
+      "packageId": "shudnal-HipLantern",
+      "version": "1.1.4"
+    },
+	{
+      "name": "TradersExtended",
+      "packageId": "shudnal-TradersExtended",
+      "version": "1.3.13"
+    },
+	{
+      "name": "AdventureBackpacks",
+      "packageId": "Vapok-AdventureBackpacks",
+      "version": "1.9.13"
     }
   ]
 }
