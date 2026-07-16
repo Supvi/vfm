@@ -23,7 +23,7 @@
 	{
       "name": "ConditionalConfigSync",
       "packageId": "shudnal-ConditionalConfigSync",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
 	{
       "name": "Localization",
@@ -39,7 +39,7 @@
     {
       "name": "ExtraSlots",
       "packageId": "shudnal-ExtraSlots",
-      "version": "1.1.19",
+      "version": "1.1.20",
 	  "customFiles": [
         {
           "url": "https://raw.githubusercontent.com/Supvi/vfm/refs/heads/main/configs/ExtraSlots.Russian.json",
@@ -50,7 +50,7 @@
     {
       "name": "EasyRelocate",
       "packageId": "ModdedWolf-EasyRelocate",
-      "version": "1.0.4"
+      "version": "1.0.5"
     }
   ]
 }
