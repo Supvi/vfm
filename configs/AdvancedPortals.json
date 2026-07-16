@@ -1,0 +1,8 @@
+{
+  "exact": [
+    { "match": "Can Teleport: (Iron, IronScrap, IronOre, Copper, CopperOre, CopperScrap, Tin, TinOre, Bronze, BronzeScrap)", "replace": "Может телепортироваться: (Железо, Железный лом, Железная руда, Медь, Медная руда, Медный лом, Олово, Оловянная руда, Бронза, Бронзовый лом)" },
+    { "match": "Can Teleport: (Copper, CopperOre, CopperScrap, Tin, TinOre, Bronze, BronzeScrap)", "replace": "Может телепортироваться: (Медь, Медная руда, Медный лом, Олово, Оловянная руда, Бронза, Бронзовый лом)" }
+  ],
+  "templates": [
+  ]
+}

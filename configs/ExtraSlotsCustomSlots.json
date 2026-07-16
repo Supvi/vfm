@@ -1,0 +1,13 @@
+{
+  "exact": [
+    { "match": "Backpack", "replace": "Рюкзак" },
+    { "match": "Circlet", "replace": "Обручь" },
+    { "match": "Neck", "replace": "Шея" },
+    { "match": "Earring", "replace": "Серьга" },
+    { "match": "Finger", "replace": "Перст" },
+    { "match": "Tome", "replace": "Том" },
+    { "match": "Quiver", "replace": "Колчан" }
+  ],
+  "templates": [
+  ]
+}
